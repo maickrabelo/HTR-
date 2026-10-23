@@ -1,0 +1,6 @@
+{
+  "name": "Relatório Casa da Diálise - SOIA NR-01",
+  "description": "Visualizador interativo do relatório NR-01 e levantamento de riscos psicossociais da Associação da Casa da Diálise via SOIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
